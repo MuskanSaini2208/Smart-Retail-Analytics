@@ -2,7 +2,8 @@ An intelligent retail analytics system that uses Machine Learning and Deep Learn
 This project helps retailers make better inventory and business decisions through data-driven insights.
 
 
-📌 Project Overview
+Project Overview
+
 The retail industry generates massive amounts of transactional data every day. Managing inventory efficiently and predicting customer purchasing behavior has become a major challenge.
 This project solves these problems by building a Smart Retail Analytics System capable of:
 Predicting product reorder probability
