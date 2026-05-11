@@ -18,26 +18,26 @@ Data Preprocessing & Feature Engineering
 
 
 Features :
-✅ Product Reorder Prediction
-✅ Demand Forecasting
-✅ Retail Data Analysis
-✅ Deep Learning-based Prediction Model
-✅ Product-Level Insights
-✅ Inventory Planning Support
-✅ JSON Model Output Storage
-✅ Interactive Product Forecasting
+Product Reorder Prediction, 
+ Demand Forecasting,
+ Retail Data Analysis,
+ Deep Learning-based Prediction Model,
+ Product-Level Insights,
+ Inventory Planning Support, 
+ JSON Model Output Storage,
+ Interactive Product Forecasting
 
 
 
-Technologies Used
-Technology	Purpose
-Python	Core Programming
-TensorFlow / Keras	Neural Network Model
-Pandas	Data Processing
-NumPy	Numerical Operations
-Scikit-learn	Preprocessing & Scaling
-Matplotlib	Visualization
-JSON	Model Storage
+Technologies Used :
+Technology	Purpose, 
+ Python	Core Programming,
+ TensorFlow / Keras	Neural Network Model,
+ Pandas	Data Processing,
+ NumPy	Numerical Operations,
+ Scikit-learn	Preprocessing & Scaling,
+ Matplotlib	Visualization,
+ JSON	Model Storage
 
 
 📂 Dataset Used
